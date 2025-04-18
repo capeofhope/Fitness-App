@@ -1,0 +1,103 @@
+[
+    {
+      "name": "Barbell Squat",
+      "category": "strength",
+      "description": "A classic compound exercise targeting quads, hamstrings, glutes, and core.",
+      "primary_muscle_group": "Legs",
+      "secondary_muscle_group": "Glutes",
+      "equipment_needed": "Barbell",
+      "image_url": "https://example.com/images/barbell-squat.jpg",
+      "video_url": "https://example.com/videos/barbell-squat.mp4"
+    },
+    {
+      "name": "Leg Press",
+      "category": "strength",
+      "description": "A machine-based exercise focusing on quads, hamstrings, and glutes.",
+      "primary_muscle_group": "Legs",
+      "secondary_muscle_group": "Glutes",
+      "equipment_needed": "Leg Press Machine",
+      "image_url": "https://example.com/images/leg-press.jpg",
+      "video_url": "https://example.com/videos/leg-press.mp4"
+    },
+    {
+      "name": "Lunges",
+      "category": "strength",
+      "description": "A unilateral lower body exercise working the quads, hamstrings, and glutes.",
+      "primary_muscle_group": "Legs",
+      "secondary_muscle_group": "Glutes",
+      "equipment_needed": "Bodyweight or Dumbbells",
+      "image_url": "https://example.com/images/lunges.jpg",
+      "video_url": "https://example.com/videos/lunges.mp4"
+    },
+    {
+      "name": "Leg Extensions",
+      "category": "strength",
+      "description": "An isolation exercise specifically targeting the quadriceps.",
+      "primary_muscle_group": "Legs",
+      "secondary_muscle_group": "None",
+      "equipment_needed": "Leg Extension Machine",
+      "image_url": "https://example.com/images/leg-extensions.jpg",
+      "video_url": "https://example.com/videos/leg-extensions.mp4"
+    },
+    {
+      "name": "Leg Curls",
+      "category": "strength",
+      "description": "An isolation exercise focused on the hamstrings.",
+      "primary_muscle_group": "Legs",
+      "secondary_muscle_group": "Glutes",
+      "equipment_needed": "Leg Curl Machine",
+      "image_url": "https://example.com/images/leg-curls.jpg",
+      "video_url": "https://example.com/videos/leg-curls.mp4"
+    },
+    {
+      "name": "Bulgarian Split Squats",
+      "category": "strength",
+      "description": "A single-leg squat variation emphasizing balance, quads, and glutes.",
+      "primary_muscle_group": "Legs",
+      "secondary_muscle_group": "Glutes",
+      "equipment_needed": "Dumbbells, Bench",
+      "image_url": "https://example.com/images/bulgarian-split-squat.jpg",
+      "video_url": "https://example.com/videos/bulgarian-split-squat.mp4"
+    },
+    {
+      "name": "Romanian Deadlifts",
+      "category": "strength",
+      "description": "A hip-hinge movement targeting the hamstrings and glutes.",
+      "primary_muscle_group": "Legs",
+      "secondary_muscle_group": "Lower Back",
+      "equipment_needed": "Barbell or Dumbbells",
+      "image_url": "https://example.com/images/romanian-deadlift.jpg",
+      "video_url": "https://example.com/videos/romanian-deadlift.mp4"
+    },
+    {
+      "name": "Step-Ups",
+      "category": "strength",
+      "description": "A functional movement improving lower body strength and balance.",
+      "primary_muscle_group": "Legs",
+      "secondary_muscle_group": "Glutes",
+      "equipment_needed": "Box or Bench, Dumbbells (optional)",
+      "image_url": "https://example.com/images/step-ups.jpg",
+      "video_url": "https://example.com/videos/step-ups.mp4"
+    },
+    {
+      "name": "Wall Sit",
+      "category": "mobility",
+      "description": "An isometric strength and endurance exercise for quads and core.",
+      "primary_muscle_group": "Legs",
+      "secondary_muscle_group": "Core",
+      "equipment_needed": "Wall",
+      "image_url": "https://example.com/images/wall-sit.jpg",
+      "video_url": "https://example.com/videos/wall-sit.mp4"
+    },
+    {
+      "name": "Calf Raises",
+      "category": "strength",
+      "description": "An isolation exercise targeting the calf muscles.",
+      "primary_muscle_group": "Legs",
+      "secondary_muscle_group": "Ankles",
+      "equipment_needed": "Bodyweight or Dumbbells",
+      "image_url": "https://example.com/images/calf-raises.jpg",
+      "video_url": "https://example.com/videos/calf-raises.mp4"
+    }
+  ]
+  

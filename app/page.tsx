@@ -1,9 +1,12 @@
-import React from 'react'
+"use client";
+import CloudinaryUpload from "./components/cloudinary";
 
 const page = () => {
   return (
-    <div>page</div>
-  )
-}
+    <div>
+      {/* <CloudinaryUpload /> */}
+    </div>
+  );
+};
 
-export default page
+export default page;

@@ -8,7 +8,7 @@ import {Link as LinkScroll} from 'react-scroll';
 const Navbar = () => {
 
 
-    const NavLink = ({title})=>(
+    const NavLink = ({title}:{title:string}})=>(
         <LinkScroll
             to={title}
             offset={-100}
