@@ -1,7 +1,7 @@
 import React from "react";
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
-import TypingAnimation from "../components/TypingAnimation";
+import Navbar from "../../components/Navbar";
+import Footer from "@/components/Footer";
+import TypingAnimation from "../../components/TypingAnimation";
 
 const page = () => {
   return (
